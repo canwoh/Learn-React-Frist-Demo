@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Leart-React-Frist-Demo/static/css/main.933e650f.css",
+    "main.js": "/Leart-React-Frist-Demo/static/js/main.bb11ed5d.js",
+    "index.html": "/Leart-React-Frist-Demo/index.html",
+    "main.933e650f.css.map": "/Leart-React-Frist-Demo/static/css/main.933e650f.css.map",
+    "main.bb11ed5d.js.map": "/Leart-React-Frist-Demo/static/js/main.bb11ed5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933e650f.css",
+    "static/js/main.bb11ed5d.js"
+  ]
+}
